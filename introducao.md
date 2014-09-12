@@ -1,12 +1,12 @@
-#Introdução
+# Introdução
 
-Muitas coisas tornam o desenvolvimento de software complexo, mas o coração dessa complexidade está no problema que o software tentando resolver (domínio-problema). A chave para controlar essa complexidade é um bom modelo de domínio.
+Muitas coisas tornam o desenvolvimento de software complexo, mas o coração dessa complexidade está no **domínio** (problema que o software tentando resolver). A chave para controlar essa complexidade é um bom modelo de domínio.
 
-Na modelagem de domínios, não se deve separar conceitos de implementações. Um profissional eficaz deve conhecer tanto do negócio como de programação. Você não pode construir um modelo conceitual útil sem considerar questões de implementação.
+Na modelagem de domínios, não se deve separar **conceitos** de **implementações**. Um profissional eficaz deve conhecer tanto do negócio como de programação. Você não pode construir um modelo conceitual sem considerar questões de implementação e não deve implementar um modelo que não será útil.
 
-O maior valor de um modelo de domínio está no fato dele proporcionar uma linguagem ubíqua (linguagem comum) que serve de união entre especialistas do negócio e especialistas tecnológicos.
+O maior valor de um modelo de domínio (e um dos pilares do DDD) está no fato dele proporcionar uma *linguagem ubíqua* (linguagem comum) que serve de **união entre especialistas do negócio e especialistas tecnológicos**.
 
-O domínio não deve ser modelado primeiro e depois implementado. Domínios bons evoluem com o tempo e devem ser implementados na medida que são modelados (processo iterativo).
+O domínio não deve ser modelado primeiro e depois implementado. Domínios bons evoluem com o tempo e devem ser implementados na medida que são modelados (processo iterativo - agile).
 
 > Martin Fowler - Abril 2003
 
